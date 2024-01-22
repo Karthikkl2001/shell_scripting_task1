@@ -1,0 +1,73 @@
+"if syntax"
+
+if [ condition ]
+then
+	statement
+fi
+
+
+
+
+"if -else syntax"
+
+
+if [ condition ]
+then
+        statement1
+else
+	statement2
+if
+
+
+
+
+
+
+"if -elif syntax"
+
+
+if [ condition ]
+then
+        statement1
+elif [ condition2 ]
+then
+        statement2
+else
+	statement3
+fi
+
+
+
+
+
+
+"syntax for for loop"
+
+for var in list
+	do
+	   statement
+	done
+
+
+
+
+
+"syntax for while loop"
+
+while [ statement ]
+        do
+           statement
+        done
+
+
+
+
+	
+
+"syntax for until loop"
+
+until [ statement ]
+        do
+           statement
+        done
+
